@@ -545,7 +545,7 @@
   }
   
   .div-61 {
-    disply: flex;
+    display: flex;
     flex-direction: column;
     overflow: hidden;
     position: relative;
@@ -731,7 +731,7 @@
   }
   
   .div-75 {
-    disply: flex;
+    display: flex;
     flex-direction: column;
     overflow: hidden;
     position: relative;
