@@ -1,3 +1,3 @@
-# praveenbabuspb1.github.io
+# praveenbabuspb.github.io
 
 praveenbabuspb
