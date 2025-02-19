@@ -1,6 +1,4 @@
-# [praveenbabuspb](https://praveenbabuspb.github.io/praveenbabuspb/)
 
- 
 ## Hi There! 👨‍💻
 I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-native applications, designing efficient microservices, and creating innovative solutions like algorithmic trading engines, combining technical excellence in Java, React, AWS, and Kubernetes with a proven track record of driving measurable results and delivering high-impact systems
 - Currently, I work in the pre-seed start-up 
@@ -33,11 +31,6 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-## Socials
-[twitter](https://twitter.com/praveenbabuspb) &nbsp;
-[linkedin](https://www.linkedin.com/in/praveenbabuspb) &nbsp;
-[website](https://praveenbabuspb.github.io/praveenbabuspb) &nbsp;
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/praveenbabuspb/count.svg)
