@@ -13,7 +13,6 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 
 - Bachelor's of Engineering @ Sri Krishna College of Engineering and Technology, Coimbatore (2020 - 2024)
 
-
 ## 🛠 Technologies I Use  
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
