@@ -6,8 +6,8 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 
 
 ## 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&locale=en" alt="praveenbabuspb" /></p>
+This code is commented
+<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&locale=en" alt="praveenbabuspb" /></p>-->
 
 ## 🎓 Education
 
