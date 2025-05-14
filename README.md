@@ -5,6 +5,45 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 - Profound interest in building projects and products that 'stick'
 
 
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://github.com/praveenbabuspb" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/praveenbabuspb" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
+  </a>
+  <a href="https://linkedin.com/in/praveenbabuspb" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&count_private=true&theme=radical" height="200" alt="praveen's GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenbabuspb&theme=radical&hide_border=true" height="200" alt="praveen's GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbabuspb&layout=compact&theme=radical&hide_border=true" height="200" alt="praveen's Top Languages" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenbabuspb&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+</div>
+
+
+
 ## 📊 GitHub Stats
 This code is commented
 <!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&locale=en" alt="praveenbabuspb" /></p>-->
