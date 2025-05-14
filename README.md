@@ -4,8 +4,8 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 - Currently, I am contributing to pre-seed start-up
 - Profound interest in building projects and products that 'stick'
 
-
-
+some sections has been commented
+<!--
 ## 🌐 Connect with me
 
 <p align="left">
@@ -45,8 +45,7 @@ I'm Praveen, a Full-Stack Developer with expertise in building scalable cloud-na
 
 
 ## 📊 GitHub Stats
-This code is commented
-<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&locale=en" alt="praveenbabuspb" /></p>-->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenbabuspb&show_icons=true&locale=en" alt="praveenbabuspb" /></p>-->
 
 ## 🎓 Education
 
